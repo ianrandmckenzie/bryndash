@@ -1,5 +1,5 @@
 {
- 	"manifest_version": 1,
+ 	"manifest_version": 2,
  	"name": "BRK Dashboard",
  	"version": "1.0",
 	"description": "A personal dashboard for the New Tab page. This is a temporary version until I hand-code something later.",
