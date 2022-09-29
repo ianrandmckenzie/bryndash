@@ -1,0 +1,12 @@
+{
+ 	"manifest_version": 1,
+ 	"name": "BRK Dashboard",
+ 	"version": "1.0",
+	"description": "A personal dashboard for the New Tab page. This is a temporary version until I hand-code something later.",
+	"icons": {
+		"128": "./images/chromeext-icon.png"
+	},
+  	"chrome_url_overrides" : {
+    	"newtab": "index.html"
+  	}
+}
